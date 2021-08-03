@@ -1,4 +1,4 @@
-package math.joon1003;
+package dynamicProgramming.joon1003;
 
 import java.util.HashMap;
 import java.util.Scanner;
